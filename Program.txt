@@ -6,6 +6,7 @@ public class Program
     {
 	    // Test comment
         Console.WriteLine("Hello, world!");
+		// Test comment 1
     }
 }
 
