@@ -9,4 +9,3 @@ public class Program
 		// Test comment 1
     }
 }
-
